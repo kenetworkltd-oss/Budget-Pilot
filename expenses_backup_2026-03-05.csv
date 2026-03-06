@@ -1,0 +1,8 @@
+ID,Date,Category,Amount,Description,Payment Method
+1,2026-03-01,foodstuffs,50000.00,"foods,provision and fun",transfer
+2,2026-03-01,Transport,40000.00,monthly transport,card payment
+3,2026-03-01,Utilities bills,30000.00,"Electricity, Gas and Internent",Transfer
+4,2026-03-01,Date Outing,10000.00,"Restraunt, foods & drinks",Card payment
+5,2026-03-02,Miscellanous,25000.00,"Tips,gifts and bike fees",Transfer
+6,2026-03-02,Charity,15000.00,Alms & helps,Transfer
+7,2026-03-03,snacks,7500.00,kilishi & chivita ,Transfer
